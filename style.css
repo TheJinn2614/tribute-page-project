@@ -3,3 +3,19 @@ h1 {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   text-align: center;
 }
+
+p {
+  text-align: left;
+  font-weight: bold;
+  text-align: center;
+}
+
+.queen-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.queen-pic:hover {
+  opacity: 0.5;
+}
